@@ -1,4 +1,4 @@
-# katas
+# Katas
 
 ## 7 kyu
 
