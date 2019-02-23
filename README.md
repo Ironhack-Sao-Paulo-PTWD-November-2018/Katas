@@ -1,6 +1,6 @@
 # katas
 
-## 7kyu
+## 7 kyu
 
 - [Count all the sheep on farm in the heights of New Zealand](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
 - [Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character)
