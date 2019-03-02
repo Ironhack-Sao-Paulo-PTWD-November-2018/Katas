@@ -18,5 +18,5 @@
 
 ## 6 kyu
 
-- [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
+- [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
