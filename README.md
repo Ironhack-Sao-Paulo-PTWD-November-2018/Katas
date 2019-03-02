@@ -15,3 +15,8 @@
 - [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 - [String Scramble](https://www.codewars.com/kata/5822d89270ca28c85c0000f3)
 - [Vowel Count](https://www.codewars.com/kata/vowel-count/javascript)
+
+## 6 kyu
+
+- [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+- [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
