@@ -23,4 +23,5 @@
 - [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
 - [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 - [Meeting](https://www.codewars.com/kata/59df2f8f08c6cec835000012)
+- [Ranking System](https://www.codewars.com/kata/58e16de3a312d34d000000bd)
 - [Sort the odd](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
