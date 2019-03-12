@@ -12,6 +12,7 @@
 - [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 - [Ordered Count of Characters](https://www.codewars.com/kata/57a6633153ba33189e000074)
 - [Parts of a list](https://www.codewars.com/kata/56f3a1e899b386da78000732)
+- [Queue time counter](https://www.codewars.com/kata/5b538734beb8654d6b00016d)
 - [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)
 - [Round to the next multiple of 5](https://www.codewars.com/kata/55d1d6d5955ec6365400006d)
 - [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
