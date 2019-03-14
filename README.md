@@ -7,6 +7,7 @@
 ## 7 kyu
 
 - [Count all the sheep on farm in the heights of New Zealand](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
+- [Create a frame](https://www.codewars.com/kata/5672f4e3404d0609ec00000a)
 - [Determine if the poker hand is flush](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d)
 - [Get the Middle Character](https://www.codewars.com/kata/get-the-middle-character)
 - [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
