@@ -6,6 +6,7 @@
 
 ## 7 kyu
 
+- [Changing letters](https://www.codewars.com/kata/5831c204a31721e2ae000294)
 - [Club Doorman](https://www.codewars.com/kata/club-doorman)
 - [Count all the sheep on farm in the heights of New Zealand](https://www.codewars.com/kata/58e0f0bf92d04ccf0a000010)
 - [Determine if the poker hand is flush](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d)
