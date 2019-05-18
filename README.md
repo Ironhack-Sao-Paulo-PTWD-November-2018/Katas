@@ -34,3 +34,7 @@
 ## 5 kyu
 
 - [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
+
+## 4 kyu
+
+- [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
